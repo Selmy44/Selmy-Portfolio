@@ -1,0 +1,44 @@
+body{
+  text-transform: capitalize;
+  background-color: #25e9df;
+  background-size: contain;
+  background-attachment: fixed;
+  color: #000000;
+  }
+
+h1.one{
+  color: #000000;;
+  line-height: normal;
+  white-space: nowrap;
+  word-spacing: 5px;
+  text-shadow: 3px 1px 10px #ff0000;
+
+} 
+
+h1.two{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  font-size: x-large;
+  font-weight: 900;
+  color: #000000;
+
+}
+.first{
+  letter-spacing: 5px;
+  text-decoration: underline;
+  text-align: center;
+  border: 2px solid #000000;
+  background-color: #a8a8a8;
+  opacity: 0.8;
+}
+
+.main{
+  border-image-repeat: repeat;
+  color: #000000;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.calling{
+  color: #a8a8a8;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* you have to add codes here */
