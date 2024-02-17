@@ -1,4 +1,3 @@
-
-        function myFuction() {
-                                document.getElementById("demo").innerHTML="Good Life.";
-        }
+function myFunction() {
+                        document.getElementById("demo").innerHTML="Are coming";
+}
